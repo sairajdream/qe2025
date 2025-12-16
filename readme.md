@@ -117,13 +117,6 @@ This is **research training**, not a black-box tutorial.
 
 ---
 
-## 👨‍🏫 Instructors
-
-- **Dr. Syed Zahid Hassan** — POSTECH, South Korea  
-- **Dr. Subrahmanyam Sappati** — Gdańsk University of Technology, Poland  
-- **Dr. Sai Raj Ali** — Middlesex University London  
-
----
 
 ## 📜 Usage & License
 
@@ -132,13 +125,4 @@ This is **research training**, not a black-box tutorial.
 - Please acknowledge the workshop if reused in teaching or training
 
 ---
-
-## 🌐 MetaChem Academy
-
-🌍 Website: https://www.metachemacademy.com  
-📞 Contact: +91 7209999199  
-
----
-
-### ⭐ If this repository helped you understand DFT automation, consider starring it.
 
